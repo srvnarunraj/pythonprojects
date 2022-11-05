@@ -5,6 +5,8 @@ def hpynum(k):
         p = p + (n * n)
         k = k // 10
     return p
+
+
 for k in range(1, 100):
     hpynum(k)
     idv = hpynum(k)
