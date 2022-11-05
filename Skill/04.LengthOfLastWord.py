@@ -5,4 +5,4 @@
 
 a = 'arun is the'
 len(str[len(str)-1])
-print(len(a.split()[))
+print(len(a.split()))
